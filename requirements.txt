@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+plotly
+sqlalchemy
+psycopg2-binary
+crewai
+supabase
+faster-whisper
+python-dotenv
